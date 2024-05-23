@@ -1,7 +1,7 @@
 # Water surface temperature - Landsat
 =================
 
-<img src="https://github.com/et-brasil/geeSEBAL/blob/master/Images/geeSEBAL_logo_update_cut.png?raw=true" width="140">
+<img src="https://github.com/leolaipelt/surfacewatertemperature/blob/main/images/fig_capa.png" width="360">
 
 ## Estimating Water surface temperature using Landsat in Google Earth Engine platform.
 
@@ -37,7 +37,7 @@
 
 Examples of how to use the algorithm is detailed in *examples* folder:
 
-[wst example.](https://github.com/et-brasil/openet-geesebal/blob/main/examples "Example")
+[wst example.](https://github.com/leolaipelt/surfacewatertemperature/tree/main/examples "Example")
 
 ## Installation
 
