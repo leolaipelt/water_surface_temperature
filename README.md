@@ -1,9 +1,8 @@
-# Water surface temperature - Landsat
+## Estimating Water surface temperature using Landsat in Google Earth Engine platform.
 =================
 
-<img src="https://github.com/leolaipelt/surfacewatertemperature/blob/main/images/fig_capa.png" width="360">
+<img src="https://github.com/leolaipelt/surfacewatertemperature/blob/main/images/fig_capa.png" width="720">
 
-## Estimating Water surface temperature using Landsat in Google Earth Engine platform.
 
 * The algorithm is developed to estimate water surface temperature for Landsat 5, 7, 8 and 9 based on the Collection 2 product.
 
